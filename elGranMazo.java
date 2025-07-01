@@ -1,4 +1,4 @@
-//- Código por Mayra Camila Calderon FAI-5785 (LCC)
+//- Código por Mayra Camila Calderon; Paulina Daniela Alis; Fiamma Valsecchi 
 //- Trabajo practico obligatorio de Resolución de Problemas y algoritmos
 //- Fecha de entrega: 1/7/2025
 
@@ -95,6 +95,9 @@ public class elGranMazo {
         // evaluo quien es el ganador
         if (puntajeJugadorUno >= 60 && puntajeJugadorDos >= 60) {
             System.out.println("El juego ha finalizado en empate, ambos jugadores han alcanzado 60 puntos o más.");
+            System.out.println(jugadorUno + " con un puntaje de: " + puntajeJugadorUno);
+            System.out.println(jugadorDos + " con un puntaje de: " + puntajeJugadorDos);
+            
         } else if (puntajeJugadorUno >= 60) {
             System.out.println("El ganador es " + jugadorUno + " con un puntaje de: " + puntajeJugadorUno);
         } else {
