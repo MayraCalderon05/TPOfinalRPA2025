@@ -1,3 +1,7 @@
+//- Código por Mayra Camila Calderon FAI-5785 (LCC)
+//- Trabajo practico obligatorio de Resolución de Problemas y algoritmos
+//- Fecha de entrega: 1/7/2025
+
 import java.util.Scanner;
 
 public class elGranMazo {
