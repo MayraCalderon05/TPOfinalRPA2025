@@ -1,6 +1,6 @@
 //- Código por Mayra Camila Calderon; Paulina Daniela Alis; Fiamma Valsecchi 
 //- Trabajo practico obligatorio de Resolución de Problemas y algoritmos
-//- Fecha de entrega: 1/7/2025
+//- Fecha de entrega: 2/7/2025
 
 import java.util.Scanner;
 
