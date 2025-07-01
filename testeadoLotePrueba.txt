@@ -1,0 +1,108 @@
+'elGranMazo' ;87b126f2-3fdf-482f-be3a-43f64d73269e
+Ingrese el nombre del jugador 1:
+Sebastian
+Ingrese el nombre del jugador 2:
+Jorge
+Ronda Nº1
+ Turno del jugador 1: Sebastian
+ Ingrese el valor de la carta  
+5
+ El puntaje de la carta es: 2.5
+ El puntaje de Sebastian es: 2.5
+ Ingrese el valor de la carta
+9
+ El puntaje de la carta es: 4.5
+ El puntaje de Sebastian es: 7.0
+ Ingrese el valor de la carta
+12
+Ha terminado su turno
+ El puntaje de Sebastian es: 7.0
+ Turno del jugador 2: Jorge
+ Ingrese el valor de la carta
+6
+ El puntaje de la carta es: 12.0
+ El puntaje de Jorge es: 12.0
+ Ingrese el valor de la carta
+5
+ El puntaje de la carta es: 2.5
+ El puntaje de Jorge es: 14.5
+ Ingrese el valor de la carta
+7
+ El puntaje de la carta es: 3.5
+ El puntaje de Jorge es: 18.0
+ Ingrese el valor de la carta
+12
+Ha terminado su turno
+ El puntaje de Jorge es: 18.0
+Ronda Nº2
+ Turno del jugador 1: Sebastian
+ Ingrese el valor de la carta
+4
+ El puntaje de la carta es: 8.0
+ El puntaje de Sebastian es: 15.0
+ Ingrese el valor de la carta
+5
+ El puntaje de la carta es: 2.5
+ El puntaje de Sebastian es: 17.5
+ Ingrese el valor de la carta
+10
+ El puntaje de la carta es: 20.0
+ El puntaje de Sebastian es: 37.5
+ Ingrese el valor de la carta
+1
+Ha terminado su turno
+ El puntaje de Sebastian es: 37.5
+ Turno del jugador 2: Jorge
+ Ingrese el valor de la carta
+6
+ El puntaje de la carta es: 12.0
+ El puntaje de Jorge es: 30.0
+ Ingrese el valor de la carta
+5
+ El puntaje de la carta es: 2.5
+ El puntaje de Jorge es: 32.5
+ Ingrese el valor de la carta
+9
+ El puntaje de la carta es: 4.5
+ El puntaje de Jorge es: 37.0
+ Ingrese el valor de la carta
+1
+Ha terminado su turno
+ El puntaje de Jorge es: 37.0
+Ronda Nº3
+ Turno del jugador 1: Sebastian
+ Ingrese el valor de la carta
+8
+ El puntaje de la carta es: 16.0
+ El puntaje de Sebastian es: 53.5
+ Ingrese el valor de la carta
+3
+ El puntaje de la carta es: 1.5
+ El puntaje de Sebastian es: 55.0
+ Ingrese el valor de la carta
+5
+ El puntaje de la carta es: 2.5
+ El puntaje de Sebastian es: 57.5
+ Ingrese el valor de la carta
+12
+Ha terminado su turno
+ El puntaje de Sebastian es: 57.5
+ Turno del jugador 2: Jorge
+ Ingrese el valor de la carta
+3
+ El puntaje de la carta es: 1.5
+ El puntaje de Jorge es: 38.5
+ Ingrese el valor de la carta
+10
+ El puntaje de la carta es: 20.0
+ El puntaje de Jorge es: 58.5
+ Ingrese el valor de la carta
+10
+ El puntaje de la carta es: 20.0
+El juego ha finalizado
+ El puntaje de Jorge es: 78.5
+El juego ha finalizado
+El ganador es Jorge con un puntaje de: 78.5
+El puntaje máximo de Sebastian fue: 20.0 en la ronda Nº2
+El puntaje máximo de Jorge fue: 20.0 en la ronda Nº3
+Cantidad de rondas jugadas: 3
